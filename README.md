@@ -1,4 +1,4 @@
-# CI/CD Final Project — IBM DevOps & Software Engineering Certificate
+# ci-cd-final-project — IBM DevOps & Software Engineering Certificate
 
 [![CI Pipeline](https://github.com/dishathakur1625-cpu/cicd-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/dishathakur1625-cpu/cicd-final-project/actions/workflows/workflow.yml)
 
